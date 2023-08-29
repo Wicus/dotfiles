@@ -1,0 +1,146 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        // "**/*.axaml.cs": true,
+        "bin/": true,
+        "obj/": true,
+        ".vs/": true,
+        ".vscode/": true,
+        "Properties/": true,
+    },
+    "cSpell.userWords": [
+        "Activatable",
+        "astro",
+        "Avalonia",
+        "Cdecl",
+        "Cmake",
+        "Comlink",
+        "Depo",
+        "Depos",
+        "Dygraph",
+        "Fody",
+        "Hanning",
+        "Initialise",
+        "keymaps",
+        "Mecalc",
+        "MVVM",
+        "neovim",
+        "openai",
+        "QDATA",
+        "qdevices",
+        "QSERVER",
+        "Quantus",
+        "roadmap",
+        "Rpms",
+        "standardisation",
+        "Streamable",
+        "Tacho",
+        "testcafe",
+        "theader",
+        "Underload",
+        "Unmanaged",
+        "wireframes",
+        "ylabel"
+    ],
+    "remote.SSH.remotePlatform": {
+        "192.168.14.12": "linux"
+    },
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp",
+        "editor.formatOnSave": false,
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.formatOnSave": false,
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": false,
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+        "editor.formatOnSave": true
+    },
+    "[astro]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "[lua]": {
+        "editor.defaultFormatter": "JohnnyMorganz.stylua",
+        "editor.formatOnSave": true,
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.lineNumbers": "on",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "editor.rulers": [
+        120
+    ],
+    "editor.formatOnType": true,
+    "editor.formatOnSave": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "omnisharp.useModernNet": true,
+    "workbench.editor.showTabs": "single",
+    "workbench.editor.tabSizing": "fixed",
+    "csharp.format.enable": true,
+    "editor.minimap.showSlider": "always",
+    "workbench.layoutControl.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.autoClosingBrackets": "never",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false,
+        "yaml": false
+    },
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true, // enable for all themes
+    },
+    "editor.renderWhitespace": "none",
+    "git.enableSmartCommit": true,
+    "[c]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.startupEditor": "none",
+    "dotnet.codeLens.enableReferencesCodeLens": false,
+    "git.autofetch": true,
+    "editor.autoClosingQuotes": "never",
+    "html.autoClosingTags": false,
+    "typescript.autoClosingTags": false,
+    "git.confirmSync": false,
+    "editor.colorDecorators": false,
+    "editor.fontSize": 11,
+    "editor.fontFamily": "'Fira Code', 'JetBrains Mono', Consolas monospace",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "vscode-neovim.NVIM_APPNAME": "nvim-vscode",
+    "window.zoomLevel": 1,
+    "chat.editor.fontSize": 11,
+    "chat.editor.wordWrap": "on",
+    "editor.fontLigatures": true
+}

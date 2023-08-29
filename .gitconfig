@@ -1,0 +1,22 @@
+[core]
+	autocrlf = input
+	eol = lf
+	longpaths = true
+	ignorecase = false
+	editor = nvim
+
+[user]
+	email = wicus@mecalc.co.za
+	name = Wicus
+
+[credential]
+	helper = wincred
+
+[credential "http://192.168.14.16:7990"]
+	provider = bitbucket
+
+[push]
+	default = current
+
+[advice]
+	addIgnoredFile = false
