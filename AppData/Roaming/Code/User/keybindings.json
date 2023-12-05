@@ -1,0 +1,52 @@
+[
+    // Remove events from keymaps
+    {
+        "key": "ctrl+n",
+        "command": "-workbench.action.files.newUntitledFile",
+    },
+    // Send keys to neovim
+    {
+        "command": "vscode-neovim.send",
+        "key": "ctrl+c",
+        "when": "editorTextFocus && neovim.mode != insert",
+        "args": "<C-c>"
+    },
+    {
+        "command": "vscode-neovim.send",
+        "key": "ctrl+v",
+        "when": "editorTextFocus && neovim.mode != insert",
+        "args": "<C-v>"
+    },
+    // Search keymaps
+    {
+        "key": "ctrl+p",
+        "command": "search.action.focusPreviousSearchResult",
+        "when": "searchViewletVisible && neovim.mode != insert",
+    },
+    {
+        "key": "ctrl+n",
+        "command": "search.action.focusNextSearchResult",
+        "when": "searchViewletVisible && neovim.mode != insert",
+    },
+    // Global keymaps
+    {
+        "key": "ctrl+h",
+        "command": "workbench.action.navigateLeft",
+        "when": "!inQuickOpen && !suggestWidgetVisible && !parameterHintsVisible && !isInDiffEditor"
+    },
+    {
+        "key": "ctrl+j",
+        "command": "workbench.action.navigateDown",
+        "when": "!inQuickOpen && !suggestWidgetVisible && !parameterHintsVisible && !isInDiffEditor"
+    },
+    {
+        "key": "ctrl+k",
+        "command": "workbench.action.navigateUp",
+        "when": "!inQuickOpen && !suggestWidgetVisible && !parameterHintsVisible && !isInDiffEditor"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "workbench.action.navigateRight",
+        "when": "!inQuickOpen && !suggestWidgetVisible && !parameterHintsVisible && !isInDiffEditor"
+    },
+]
