@@ -133,14 +133,13 @@
     "typescript.autoClosingTags": false,
     "git.confirmSync": false,
     "editor.colorDecorators": false,
-    "editor.fontSize": 11,
+    "editor.fontSize": 12,
     "editor.fontFamily": "'Fira Code', 'JetBrains Mono', Consolas monospace",
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },
     "vscode-neovim.NVIM_APPNAME": "nvim-vscode",
-    "window.zoomLevel": 1,
     "chat.editor.fontSize": 11,
     "chat.editor.wordWrap": "on",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
 }
