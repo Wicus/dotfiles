@@ -431,7 +431,7 @@
       "name": "Catppuccin Mocha",
       "tab": {
         "background": "#1E1E2EFF",
-        "showCloseButton": "activeOnly"
+        "showCloseButton": "never"
       },
       "tabRow": {
         "background": "#11111BFF"
