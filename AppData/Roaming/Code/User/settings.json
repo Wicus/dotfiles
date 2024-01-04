@@ -88,7 +88,6 @@
     },
     "editor.bracketPairColorization.enabled": true,
     "editor.lineNumbers": "on",
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
     "editor.rulers": [
         120
     ],
@@ -139,7 +138,7 @@
         "asvetliakov.vscode-neovim": 1
     },
     "vscode-neovim.NVIM_APPNAME": "nvim-vscode",
-    "chat.editor.fontSize": 11,
+    "chat.editor.fontSize": 12,
     "chat.editor.wordWrap": "on",
     "editor.fontLigatures": true,
 }
