@@ -1527,3 +1527,12 @@
   - kind: Exe
     id: ueli.exe
     matching_strategy: Equals
+- name: SafeInCloud
+  identifier:
+    kind: Exe
+    id: SafeInCloud.exe
+    matching_strategy: Equals
+  float_identifiers:
+  - kind: Exe
+    id: SafeInCloud.exe 
+    matching_strategy: Equals
