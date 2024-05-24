@@ -1536,3 +1536,21 @@
   - kind: Exe
     id: SafeInCloud.exe 
     matching_strategy: Equals
+- name: QDataManager
+  identifier:
+    kind: Exe
+    id: QDataManager.UI.exe
+    matching_strategy: Equals
+  float_identifiers:
+  - kind: Exe
+    id: QDataManager.UI.exe 
+    matching_strategy: Equals
+- name: FontForge
+  identifier:
+    kind: Exe
+    id: FontForge.exe
+    matching_strategy: Equals
+  float_identifiers:
+  - kind: Exe
+    id: FontForge.exe
+    matching_strategy: Equals

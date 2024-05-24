@@ -132,8 +132,8 @@
     "typescript.autoClosingTags": false,
     "git.confirmSync": false,
     "editor.colorDecorators": false,
-    "editor.fontSize": 11,
-    "editor.fontFamily": "'Fira Code', 'JetBrains Mono', Consolas monospace",
+    "editor.fontSize": 12,
+    "editor.fontFamily": "Berkeley Mono Trial",
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },

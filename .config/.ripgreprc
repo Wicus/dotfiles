@@ -12,6 +12,7 @@
 # Using glob patterns to include/exclude files or folders
 --glob=!src/shared/dygraphs/*
 --glob=!src/shared/canvas-gauges/*
+--glob=!.cache/clagd/*
 
 # # or
 # --glob

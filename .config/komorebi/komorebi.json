@@ -4,7 +4,7 @@
   "window_hiding_behaviour": "Cloak",
   "cross_monitor_move_behaviour": "Insert",
   "default_workspace_padding": 0,
-  "default_container_padding": -4,
+  "default_container_padding": -8,
   "active_window_border": false,
   "active_window_border_colours": {
     "single": { "r": 66, "g": 165, "b": 245 },
@@ -37,10 +37,7 @@
       "id": "SafeInCloud.exe"
     }
   ],
-  "manage_rules": [
-    {
-    }
-  ],
+  "manage_rules": [],
   "monitors": [
     {
       "workspaces": [
