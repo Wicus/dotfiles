@@ -133,11 +133,12 @@
     "git.confirmSync": false,
     "editor.colorDecorators": false,
     "editor.fontSize": 12,
-    "editor.fontFamily": "Berkeley Mono Trial",
+    "editor.fontFamily": "Berkeley Mono",
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },
     "chat.editor.fontSize": 11,
     "chat.editor.wordWrap": "on",
     "editor.fontLigatures": true,
+    "github.copilot.editor.enableAutoCompletions": true,
 }
