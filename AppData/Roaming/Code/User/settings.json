@@ -114,7 +114,7 @@
     "editor.semanticTokenColorCustomizations": {
         "enabled": true, // enable for all themes
     },
-    "editor.renderWhitespace": "none",
+    "editor.renderWhitespace": "boundary",
     "git.enableSmartCommit": true,
     "[c]": {
         "editor.defaultFormatter": "xaver.clang-format"
