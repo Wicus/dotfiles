@@ -20,3 +20,5 @@
 
 [advice]
 	addIgnoredFile = false
+[credential "http://svrbitbucket:7990"]
+	provider = bitbucket
